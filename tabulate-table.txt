@@ -1,0 +1,18 @@
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+
+| Day   | 1     | 2     | 3         | 4           | 5               | 6             | 7             | 8             |
++=======+=======+=======+===========+=============+=================+===============+===============+===============+
+| Mon   | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical      | c programming | communication | communication |
+|       |       |       |           |             | engineering lab | lab           | skills        | skills        |
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+
+| Tue   | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical      | c programming | communication | communication |
+|       |       |       |           |             | engineering lab | lab           | skills        | skills        |
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+
+| Wed   | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical      | c programming | communication | communication |
+|       |       |       |           |             | engineering lab | lab           | skills        | skills        |
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+
+| Thu   | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical      | c programming | communication | communication |
+|       |       |       |           |             | engineering lab | lab           | skills        | skills        |
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+
+| Fri   | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical      | c programming | communication | communication |
+|       |       |       |           |             | engineering lab | lab           | skills        | skills        |
++-------+-------+-------+-----------+-------------+-----------------+---------------+---------------+---------------+

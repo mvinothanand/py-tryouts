@@ -1,0 +1,24 @@
+[
+  {
+    "image_name": "1690417626-20230727-dt-01.jpg", 
+    'title': 'dienosirs', 
+    'prev_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'Die No Sirs', 'CBFC_rating': 'U/A', 'original_lang': 'Tamil', 'tags': '#DieNoSirs #டைனோசர்ஸ் #MRMadhavan', 'image_name': '1690417626-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல் திரையரங்குகளில்', 'tag_line': '', 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }, 
+    'new_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'Die No Sirs', 'CBFC_rating': 'U/A', 'original_lang': 'Tamil', 'tags': '#DieNoSirs #டைனோசர்ஸ் #MRMadhavan', 'image_name': '1690417626-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல் திரையரங்குகளில்', 'tag_line': '', 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }
+  },
+  {
+    'image_name': '1690417623-20230727-dt-01.jpg', 'title': '"dd returns"', 
+    'prev_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'DD Returns', 'CBFC_rating': '', 'original_lang': 'Tamil', 'tags': '#DDReturns #Santhanam #Surabhi #Munishkanth #SPremAnand #RKEntertainment', 'image_name': '1690417623-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல்', 'tag_line': 'Dare Demons', 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }, 'new_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'DD Returns', 'CBFC_rating': '', 'original_lang': 'Tamil', 'tags': '#DDReturns #Santhanam #Surabhi #Munishkanth #SPremAnand #RKEntertainment', 'image_name': '1690417623-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல்', 'tag_line': 'Dare Demons', 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }
+  },
+  {'image_name': '1690417618-20230727-dt-01.jpg', 'title': 'l.g.m', 'prev_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'L.G.M', 'CBFC_rating': 'U', 'original_lang': 'Tamil', 'tags': '#LGM #LetsGetMarried #எல்ஜிஎம் #HarishKalyan #Ivana #Nadiya #RameshTamilmani #DhoniEntertainment', 'image_name': '1690417618-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல்', 'tag_line': "Let's Get Married", 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }, 'new_entry': {'YYYYMMDD': '20230727', 'release_date': '28-Jul-2023', 'title': 'L.G.M', 'CBFC_rating': 'U', 'original_lang': 'Tamil', 'tags': '#LGM #LetsGetMarried #எல்ஜிஎம் #HarishKalyan #Ivana #Nadiya #RameshTamilmani #DhoniEntertainment', 'image_name': '1690417618-20230727-dt-01.jpg', 'poster_message': 'நாளை முதல்', 'tag_line': "Let's Get Married", 'release': 'coming_soon', 'update_tci_db': 'yes'
+    }
+  },
+  {'image_name': '1690417621-20230727-dt-01.jpg', 'title': 'aneedhi', 'prev_entry': {'YYYYMMDD': '20230727', 'release_date': '21-Jul-2023', 'title': 'Aneedhi', 'CBFC_rating': 'U/A', 'original_lang': 'Tamil', 'tags': '#Aneedhi #அநீதி #ArjunDas #Dushara #VasanthaBalan #GVPrakash #SPictures #DirectorShankar #KaaliVenkat #Vanitha', 'image_name': '1690417621-20230727-dt-01.jpg', 'poster_message': 'உழைக்கும் மக்களின் பாராட்டில்', 'tag_line': '', 'release': 'already', 'update_tci_db': 'no'
+    }, 'new_entry': {'YYYYMMDD': '20230727', 'release_date': '21-Jul-2023', 'title': 'Aneedhi', 'CBFC_rating': 'U/A', 'original_lang': 'Tamil', 'tags': '#Aneedhi #அநீதி #ArjunDas #Dushara #VasanthaBalan #GVPrakash #SPictures #DirectorShankar #KaaliVenkat #Vanitha', 'image_name': '1690417621-20230727-dt-01.jpg', 'poster_message': 'உழைக்கும் மக்களின் பாராட்டில்', 'tag_line': '', 'release': 'already', 'update_tci_db': 'no'
+    }
+  }
+]

@@ -1,0 +1,9 @@
++-----+-------+-------+-----------+-------------+----------------------------+-------------------+----------------------+
+| Day |   1   |   2   |     3     |      4      |             5              |         6         |          8           |
++-----+-------+-------+-----------+-------------+----------------------------+-------------------+----------------------+
+| Mon | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical engineering lab | c programming lab | communication skills |
+| Tue | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical engineering lab | c programming lab | communication skills |
+| Wed | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical engineering lab | c programming lab | communication skills |
+| Thu | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical engineering lab | c programming lab | communication skills |
+| Fri | SUB-1 | SUB-2 | subject 3 | subject ten | mechanical engineering lab | c programming lab | communication skills |
++-----+-------+-------+-----------+-------------+----------------------------+-------------------+----------------------+
