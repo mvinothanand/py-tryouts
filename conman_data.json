@@ -1,0 +1,246 @@
+[
+  {
+    "date": "2023-11-10",
+    "percentCompletion": 0.0
+  },
+  {
+    "date": "2023-11-11",
+    "percentCompletion": 1.67
+  },
+  {
+    "date": "2023-11-12",
+    "percentCompletion": 3.33
+  },
+  {
+    "date": "2023-11-13",
+    "percentCompletion": 5.0
+  },
+  {
+    "date": "2023-11-14",
+    "percentCompletion": 6.67
+  },
+  {
+    "date": "2023-11-15",
+    "percentCompletion": 8.33
+  },
+  {
+    "date": "2023-11-16",
+    "percentCompletion": 10.0
+  },
+  {
+    "date": "2023-11-17",
+    "percentCompletion": 11.67
+  },
+  {
+    "date": "2023-11-18",
+    "percentCompletion": 13.33
+  },
+  {
+    "date": "2023-11-19",
+    "percentCompletion": 15.0
+  },
+  {
+    "date": "2023-11-20",
+    "percentCompletion": 16.67
+  },
+  {
+    "date": "2023-11-21",
+    "percentCompletion": 18.33
+  },
+  {
+    "date": "2023-11-22",
+    "percentCompletion": 20.0
+  },
+  {
+    "date": "2023-11-23",
+    "percentCompletion": 21.67
+  },
+  {
+    "date": "2023-11-24",
+    "percentCompletion": 23.33
+  },
+  {
+    "date": "2023-11-25",
+    "percentCompletion": 25.0
+  },
+  {
+    "date": "2023-11-26",
+    "percentCompletion": 26.67
+  },
+  {
+    "date": "2023-11-27",
+    "percentCompletion": 28.33
+  },
+  {
+    "date": "2023-11-28",
+    "percentCompletion": 30.0
+  },
+  {
+    "date": "2023-11-29",
+    "percentCompletion": 31.67
+  },
+  {
+    "date": "2023-11-30",
+    "percentCompletion": 33.33
+  },
+  {
+    "date": "2023-12-01",
+    "percentCompletion": 35.0
+  },
+  {
+    "date": "2023-12-02",
+    "percentCompletion": 36.67
+  },
+  {
+    "date": "2023-12-03",
+    "percentCompletion": 38.33
+  },
+  {
+    "date": "2023-12-04",
+    "percentCompletion": 40.0
+  },
+  {
+    "date": "2023-12-05",
+    "percentCompletion": 41.67
+  },
+  {
+    "date": "2023-12-06",
+    "percentCompletion": 43.33
+  },
+  {
+    "date": "2023-12-07",
+    "percentCompletion": 45.0
+  },
+  {
+    "date": "2023-12-08",
+    "percentCompletion": 46.67
+  },
+  {
+    "date": "2023-12-09",
+    "percentCompletion": 48.33
+  },
+  {
+    "date": "2023-12-10",
+    "percentCompletion": 50.0
+  },
+  {
+    "date": "2023-12-11",
+    "percentCompletion": 51.67
+  },
+  {
+    "date": "2023-12-12",
+    "percentCompletion": 53.33
+  },
+  {
+    "date": "2023-12-13",
+    "percentCompletion": 55.0
+  },
+  {
+    "date": "2023-12-14",
+    "percentCompletion": 56.67
+  },
+  {
+    "date": "2023-12-15",
+    "percentCompletion": 58.33
+  },
+  {
+    "date": "2023-12-16",
+    "percentCompletion": 60.0
+  },
+  {
+    "date": "2023-12-17",
+    "percentCompletion": 61.67
+  },
+  {
+    "date": "2023-12-18",
+    "percentCompletion": 63.33
+  },
+  {
+    "date": "2023-12-19",
+    "percentCompletion": 65.0
+  },
+  {
+    "date": "2023-12-20",
+    "percentCompletion": 66.67
+  },
+  {
+    "date": "2023-12-21",
+    "percentCompletion": 68.33
+  },
+  {
+    "date": "2023-12-22",
+    "percentCompletion": 70.0
+  },
+  {
+    "date": "2023-12-23",
+    "percentCompletion": 71.67
+  },
+  {
+    "date": "2023-12-24",
+    "percentCompletion": 73.33
+  },
+  {
+    "date": "2023-12-25",
+    "percentCompletion": 75.0
+  },
+  {
+    "date": "2023-12-26",
+    "percentCompletion": 76.67
+  },
+  {
+    "date": "2023-12-27",
+    "percentCompletion": 78.33
+  },
+  {
+    "date": "2023-12-28",
+    "percentCompletion": 80.0
+  },
+  {
+    "date": "2023-12-29",
+    "percentCompletion": 81.67
+  },
+  {
+    "date": "2023-12-30",
+    "percentCompletion": 83.33
+  },
+  {
+    "date": "2023-12-31",
+    "percentCompletion": 85.0
+  },
+  {
+    "date": "2024-01-01",
+    "percentCompletion": 86.67
+  },
+  {
+    "date": "2024-01-02",
+    "percentCompletion": 88.33
+  },
+  {
+    "date": "2024-01-03",
+    "percentCompletion": 90.0
+  },
+  {
+    "date": "2024-01-04",
+    "percentCompletion": 91.67
+  },
+  {
+    "date": "2024-01-05",
+    "percentCompletion": 93.33
+  },
+  {
+    "date": "2024-01-06",
+    "percentCompletion": 95.0
+  },
+  {
+    "date": "2024-01-07",
+    "percentCompletion": 96.67
+  },
+  {
+    "date": "2024-01-08",
+    "percentCompletion": 98.33
+  },
+  {
+    "date": "2024-01-09",
+    "percentCompletion": 100.0
+  }
+]

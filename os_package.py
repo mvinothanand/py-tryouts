@@ -196,5 +196,12 @@ def main():
   # write the data to a new 
 
 
+def test():
+  src_path = "/home/vinoth/20230222.lst"
+  dest_path = "/home/vinoth/Documents/temp/20230222.lst"
+  os.rename(src_path, dest_path)
+
+
 if __name__ == "__main__":
-  main()
+  #main()
+  test()
